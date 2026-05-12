@@ -75,6 +75,13 @@ h1 {
   line-height: 1;
 }
 
+.owner-name {
+  margin: 0.85rem 0 0;
+  color: #405168;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
 .count-display {
   display: block;
   margin: 2rem auto;

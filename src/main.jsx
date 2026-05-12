@@ -10,6 +10,7 @@ function CounterApp() {
       <section className="counter-panel" aria-labelledby="counter-title">
         <p className="eyebrow">React state demo</p>
         <h1 id="counter-title">Counter</h1>
+        <p className="owner-name">Created by Shailvi</p>
         <output className="count-display" aria-live="polite">
           {count}
         </output>
